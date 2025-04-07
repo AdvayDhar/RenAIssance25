@@ -1,6 +1,12 @@
 # RenAIssance25
 RenAIssance Document synthesis using custom pipeline
 
+IMPORTANT: FOR THE INITIAL TWO IMAGE UPLOADS, UPLOAD the chardecorscontd.jpg and croppednormalsample.jpg in that order. The code is ver flexible and will work with other input sources as well, witha small amount of tweaking.
+
+ NOTE: THE FINAL IMAGES ARE NOT CREATED USING UPTO THE PART OF THE NOTEBOOK WHERE WE ATTEMPT TO CREATE A .TTF FILE, AND WE CAN SIMPLY RUN THE REST OF THE CODE AND GENERATE THE SAME RESULTS.
+
+
+
 
 
 
